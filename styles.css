@@ -1,0 +1,61 @@
+html, body {
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 0;
+    background-color: #25292f;
+}
+
+.custom-container {
+    display : flex;
+    padding: 10px;
+    width: 1000px;
+    justify-content: space-evenly;
+    color: whitesmoke;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.canvas {
+    padding: 5px;
+    border: 2px solid #606060;
+    box-shadow: 0 0 10px #606060;
+    border-radius: 20px;
+    background-color: #25292f;
+}
+
+.input-custom label {
+    margin-right: 10px;
+}
+
+.input-custom input {
+    box-shadow: 0 0 10px #1ecbc6;
+    border-radius: 5px;
+    padding: 5px;
+    border-style: none;
+    text-align: center;
+}
+
+.input-custom input:focus {
+    outline: none;
+    border-style: none;
+    box-shadow: 0 0 20px #30ede6;
+}
+
+.btnStart button {
+    background-color: #606060;
+    width: 200px;
+    padding: 5px;
+    border-style: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #1ecbc6;
+    color: whitesmoke;
+}
+
+.btnStart button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 20px #30ede6;
+}
