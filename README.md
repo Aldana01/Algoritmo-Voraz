@@ -7,6 +7,6 @@ Esta solución consiste en generar nodos aleatorios en diferentes posiciciones e
 cNode : Numero de nodos
 time  : Tiempo de paso al siguiente nodo
 
-https://nvalgo.tech/voraz/
+https://entropydev.com/voraz/
 
 ![image](https://github.com/user-attachments/assets/5e3ce384-f66c-4aea-8030-424ab8c074ad)
